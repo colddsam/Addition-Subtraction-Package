@@ -1,0 +1,5 @@
+main.py
+.venv
+dist
+poetry.lock
+.pytest_cache
